@@ -1,0 +1,26 @@
+{
+  "name": "who-works-for-who",
+  "version": "1.0.0",
+  "description": "An team tracker",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDontKnow/who-works-for-who.git"
+  },
+  "author": "David Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidDontKnow/who-works-for-who/issues"
+  },
+  "homepage": "https://github.com/DavidDontKnow/who-works-for-who#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
